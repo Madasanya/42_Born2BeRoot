@@ -1,3 +1,3 @@
 # 42_Born2BeRoot
 
-tba soon
+Link collection and approaches can be found in respective [Wiki](https://github.com/Madasanya/42_Born2BeRoot/wiki).
